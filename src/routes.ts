@@ -1,4 +1,4 @@
-import { UserRoutes } from "./routes/user/@userRoutes";
+import { UserRoutes } from "./routes/user/@UserRoutes";
 import { app } from "./server";
 
 export const routes = async () => {
